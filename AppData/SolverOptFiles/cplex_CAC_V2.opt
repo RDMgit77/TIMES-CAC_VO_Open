@@ -1,0 +1,12 @@
+scaind 0
+rerun yes
+iis yes
+lpmethod 4
+baralg 1
+barcrossalg 0
+barorder 3
+aggind -1
+barstartalg 2
+nodesel 2
+advind=1
+relaxfixedinfeas 1
