@@ -1,2 +1,4 @@
 # TIMES-CAC_VO_Open
- Central Asian Caspian Open Version
+Central Asian Caspian Open Version
+
+The Central Asian Caspian energy system model is designed as a single, multi-regional tool, based on four structurally consistent and interconnected country energy systems (Azerbaijan, Kazakhstan, Turkmenistan, Uzbekistan) combined with an implicit representation of water and hydropower from Tajikistan and Kyrgyzstan. It covers the period 2017 (BaseYear) to 2050 to analyse alternative developments of the regional system under different scenarios in a medium-to-long time horizon. It describes the entire energy chain (from the mining/extraction to the final uses) with high capability to represent technologies, mitigation options and measures, energy efficiency and fuel switches, to account for a large part of the GHG emissions reported in the national inventories.
